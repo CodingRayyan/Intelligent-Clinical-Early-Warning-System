@@ -1,0 +1,21 @@
+subject_id,text,label
+1,"Patient shows signs of respiratory distress. HR is elevated. Possible early sepsis signs observed. Lung sounds are diminished.",1
+2,"Patient is stable. Vital signs are within normal range. No immediate concerns.",0
+3,"Patient has persistent fever and low blood pressure. MAP is below 65. Initiating fluid resuscitation. Suspected infection.",1
+4,"Patient is recovering well. Vitals are stable. Plan to discharge soon.",0
+5,"Decreased urine output and altered mental status. Patient is lethargic. WBC count is rising. Critical condition.",1
+6,"Routine checkup. Patient is alert and oriented. All systems normal.",0
+7,"Tachycardia and tachypnea noted. Oxygen saturation is dropping. Starting broad-spectrum antibiotics.",1
+8,"Post-operative recovery. Pain managed. Vitals stable.",0
+9,"Hypotension and shivering. Skin is mottled. High suspicion of septic shock.",1
+10,"Patient resting comfortably. Vitals stable on room air.",0
+11,"Patient is experiencing severe abdominal pain and nausea. Elevated temperature of 38.5C. Sepsis screening initiated.",1
+12,"Stable condition. Patient is communicating effectively. No signs of deterioration.",0
+13,"Patient has a high heart rate and low oxygen saturation. Respiratory rate is 25 bpm. Chest X-ray shows infiltrates.",1
+14,"Patient is stable. No changes in clinical status. Continuing current treatment plan.",0
+15,"Signs of systemic inflammatory response syndrome (SIRS). High WBC and fever. Monitoring closely for sepsis.",1
+16,"Patient is asymptomatic. Vital signs are normal. Discharged from ICU.",0
+17,"Sudden drop in blood pressure. Patient is cold and clammy. Emergency intervention required for possible sepsis.",1
+18,"Patient is stable. Normal sinus rhythm. No acute distress.",0
+19,"Persistent cough and shortness of breath. Patient is febrile. Sepsis protocol activated.",1
+20,"Patient is doing well. Vitals are consistent. Preparing for transfer to ward.",0
